@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# external_data
+datasets/
+model/yolov10
+
 # Distribution / packaging
 .Python
 build/
